@@ -1,0 +1,21 @@
+.delete{
+    background-color: orange;
+    color: white;
+    border-radius: 4px;
+    width: 100px;
+    height: 30px;
+}
+
+.delete:hover{
+    color: orange;
+    background-color: white;
+    transition: ease-in-out .3s;
+}
+
+.insideTodo{
+    color: white;
+}
+.todo_style{
+    padding-left: 45%;
+    padding-right: 50%;
+}
